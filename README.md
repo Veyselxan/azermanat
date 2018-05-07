@@ -1,0 +1,2 @@
+# azermanat
+Azərbaycan manatı
