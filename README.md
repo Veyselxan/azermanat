@@ -3,5 +3,3 @@ Azərbaycan manatı
 
 
 
-Demo
- class="vx-manat-yerli"
