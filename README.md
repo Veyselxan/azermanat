@@ -1,7 +1,11 @@
 # Azer manat
 Azərbaycan manatı
 
- <span class="vx-manat-yerli">
+
+           <span class="vx-manat-yerli"></span>
                 
-                </span>
-                <span class="mls"> vx-manat-yerli</span>
+ 
+ .vx-manat-yerli:before {
+  content: "\e900";
+}
+
